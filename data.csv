@@ -1,0 +1,501 @@
+Profile_ID,Age,Employment_Status,Residential_Stability,Bank_Account_Tenure,Utility_Payment_History,Rent_Payment_History,Telecommunications_Payment_History,Educational_Background,Online_Shopping_Behavior,Social_Media_Footprint,Gig_Economy_Participation
+420678,64,Student,10,15,Inconsistent,New,Inconsistent,Master's,Occasional,High,None
+138458,27,Self-employed,14,17,New,New,Consistent,High School,None,High,Part-Time
+461377,30,Self-employed,16,21,Inconsistent,Inconsistent,New,High School,Frequent,High,None
+300578,19,Employed,20,7,New,Inconsistent,Consistent,PhD,None,Medium,Full-Time
+64157,24,Self-employed,10,13,Consistent,New,Inconsistent,PhD,None,Low,Full-Time
+507828,31,Self-employed,25,9,Inconsistent,Consistent,Consistent,Master's,Frequent,Medium,Full-Time
+993437,58,Unemployed,6,13,Inconsistent,Inconsistent,Inconsistent,High School,Frequent,Medium,None
+767541,45,Student,25,13,New,Inconsistent,New,PhD,Frequent,Medium,Part-Time
+165503,19,Unemployed,3,17,New,Inconsistent,Consistent,Bachelor's,Frequent,Low,Part-Time
+723639,51,Unemployed,25,0,Inconsistent,Consistent,Consistent,Master's,Occasional,High,Full-Time
+334950,18,Self-employed,26,2,Inconsistent,New,Inconsistent,PhD,None,Medium,None
+685308,64,Student,12,15,Consistent,New,New,PhD,Frequent,High,None
+399053,27,Student,20,0,Inconsistent,Consistent,Consistent,Master's,None,Medium,Part-Time
+830205,42,Student,19,13,Inconsistent,Consistent,Consistent,High School,Occasional,High,Part-Time
+786486,53,Student,10,29,Consistent,New,New,High School,Occasional,High,Full-Time
+199664,18,Self-employed,3,29,Inconsistent,Inconsistent,New,Bachelor's,None,Low,Part-Time
+887226,34,Student,28,28,New,Inconsistent,Consistent,High School,None,High,Full-Time
+250612,41,Employed,16,8,New,Consistent,Consistent,PhD,Occasional,Low,None
+232212,51,Unemployed,1,11,Consistent,Inconsistent,Inconsistent,Master's,Frequent,Low,Full-Time
+854803,27,Self-employed,8,26,Consistent,Consistent,Inconsistent,Master's,Occasional,Medium,Full-Time
+802475,55,Unemployed,6,22,New,Consistent,New,Bachelor's,Occasional,Low,None
+228174,52,Self-employed,11,22,New,Inconsistent,Consistent,Master's,Occasional,Medium,Full-Time
+298216,32,Unemployed,9,0,Inconsistent,Consistent,Consistent,PhD,Frequent,High,Part-Time
+71468,58,Employed,14,20,Consistent,Inconsistent,New,Bachelor's,Frequent,High,None
+186000,52,Self-employed,23,29,Consistent,New,Inconsistent,Bachelor's,None,High,Full-Time
+794461,32,Employed,25,2,New,Inconsistent,Inconsistent,Master's,Occasional,Low,Part-Time
+785668,62,Unemployed,14,0,Consistent,Consistent,Inconsistent,High School,Occasional,Medium,Full-Time
+380076,45,Self-employed,0,11,Consistent,Inconsistent,New,PhD,Occasional,Medium,None
+419546,31,Employed,13,11,New,Inconsistent,Inconsistent,Bachelor's,Occasional,Low,Part-Time
+410246,33,Student,26,24,Inconsistent,Inconsistent,Consistent,PhD,Occasional,High,None
+679355,39,Unemployed,12,11,Consistent,Inconsistent,New,PhD,Occasional,Medium,Full-Time
+748894,63,Student,27,27,Consistent,Consistent,Inconsistent,Bachelor's,Occasional,Medium,None
+42676,45,Student,0,2,Inconsistent,New,New,High School,None,Medium,Part-Time
+572655,46,Unemployed,12,0,Consistent,Consistent,Inconsistent,PhD,None,Medium,Part-Time
+523314,50,Student,15,12,Consistent,Consistent,Consistent,High School,Occasional,Medium,None
+627581,22,Self-employed,28,9,New,Inconsistent,New,PhD,Frequent,Medium,Full-Time
+501499,51,Unemployed,22,9,New,Consistent,New,PhD,None,Medium,Part-Time
+741096,18,Unemployed,10,1,Inconsistent,Inconsistent,Inconsistent,PhD,Frequent,Low,Part-Time
+155982,56,Self-employed,27,17,Inconsistent,Consistent,Inconsistent,High School,None,Medium,None
+979584,19,Employed,28,10,New,Consistent,Consistent,Bachelor's,Frequent,Medium,Part-Time
+294724,19,Employed,10,0,Consistent,Consistent,Consistent,PhD,Occasional,Medium,Full-Time
+568313,27,Unemployed,3,28,Inconsistent,Consistent,Consistent,Bachelor's,Frequent,Medium,Full-Time
+729247,47,Self-employed,13,26,Inconsistent,Inconsistent,Consistent,Bachelor's,Occasional,High,None
+682131,53,Unemployed,23,10,Inconsistent,Consistent,Inconsistent,PhD,Frequent,Low,Full-Time
+281984,49,Unemployed,17,24,Inconsistent,Consistent,Inconsistent,High School,Occasional,Medium,None
+712345,46,Unemployed,14,18,Consistent,New,Consistent,High School,Frequent,Medium,Part-Time
+439393,48,Student,6,14,New,Inconsistent,New,High School,Occasional,Medium,None
+277873,40,Employed,5,17,Consistent,Inconsistent,Consistent,Master's,None,High,Full-Time
+47278,61,Employed,16,26,New,New,Consistent,PhD,Frequent,Medium,Full-Time
+475429,42,Employed,29,21,Inconsistent,Consistent,Consistent,PhD,Frequent,Medium,None
+456799,40,Employed,26,26,Consistent,Inconsistent,Inconsistent,Bachelor's,None,High,None
+518643,20,Unemployed,23,17,Inconsistent,Consistent,Inconsistent,High School,None,Low,Part-Time
+351515,18,Self-employed,15,25,Inconsistent,Inconsistent,New,PhD,Frequent,Low,None
+183771,60,Employed,15,3,New,Consistent,Inconsistent,Bachelor's,Occasional,Medium,Part-Time
+745586,21,Student,28,1,New,New,New,High School,Occasional,Medium,Part-Time
+235010,36,Self-employed,4,5,Consistent,Consistent,Consistent,High School,None,Low,Full-Time
+27141,40,Self-employed,10,9,New,New,Inconsistent,PhD,Occasional,Medium,None
+885029,27,Unemployed,13,20,Consistent,Consistent,New,High School,None,High,None
+881053,22,Student,14,26,Inconsistent,Consistent,Inconsistent,Bachelor's,Frequent,High,Full-Time
+320885,63,Unemployed,9,10,Consistent,Consistent,New,Master's,Frequent,Low,Part-Time
+911728,34,Unemployed,21,18,Consistent,Consistent,Consistent,Master's,Occasional,Low,Full-Time
+582653,51,Student,23,14,New,Inconsistent,New,Master's,Occasional,High,None
+909551,44,Student,16,4,Inconsistent,Consistent,New,Bachelor's,Occasional,Low,Full-Time
+44249,39,Self-employed,9,2,New,Inconsistent,Inconsistent,PhD,None,Low,None
+317987,58,Employed,25,17,New,New,Inconsistent,PhD,None,High,Part-Time
+842031,27,Unemployed,1,2,New,Inconsistent,Consistent,High School,Occasional,Low,None
+799966,53,Self-employed,29,23,Consistent,Consistent,New,PhD,Occasional,High,None
+421167,26,Employed,3,8,Inconsistent,Consistent,New,High School,Frequent,Low,Part-Time
+425462,35,Student,12,17,Inconsistent,Inconsistent,New,Bachelor's,Occasional,Low,Part-Time
+402170,62,Student,24,1,Consistent,Inconsistent,Inconsistent,High School,Occasional,High,Part-Time
+372575,55,Student,13,5,Consistent,Consistent,Inconsistent,Bachelor's,None,High,None
+321737,23,Unemployed,14,6,Consistent,New,Inconsistent,High School,None,Low,Full-Time
+185659,20,Self-employed,0,8,Inconsistent,Inconsistent,New,High School,Frequent,Medium,None
+969197,48,Student,2,20,New,Inconsistent,Consistent,Bachelor's,None,Medium,None
+248214,21,Student,17,19,Inconsistent,Consistent,Inconsistent,High School,Frequent,Low,Full-Time
+696048,25,Student,5,28,Consistent,Consistent,Inconsistent,Bachelor's,None,Medium,Full-Time
+442229,52,Unemployed,0,5,Inconsistent,Inconsistent,Consistent,PhD,Occasional,Low,None
+633283,58,Unemployed,5,17,Inconsistent,Inconsistent,New,Bachelor's,Occasional,High,Full-Time
+372951,21,Employed,27,11,New,Consistent,Inconsistent,High School,None,Low,None
+923078,29,Employed,26,5,Consistent,Inconsistent,New,Bachelor's,Frequent,Low,Part-Time
+271749,46,Self-employed,21,19,Consistent,Consistent,Consistent,PhD,None,Low,Part-Time
+236215,55,Employed,1,26,New,Consistent,Inconsistent,PhD,Frequent,High,Part-Time
+340849,44,Student,6,29,Inconsistent,Consistent,Consistent,High School,None,High,Part-Time
+814223,22,Unemployed,7,3,New,Inconsistent,New,Bachelor's,Occasional,High,Part-Time
+444047,48,Student,17,18,New,Inconsistent,Inconsistent,High School,None,High,Part-Time
+138733,27,Employed,8,28,Inconsistent,New,Consistent,Master's,None,Medium,Full-Time
+695121,48,Self-employed,29,23,Inconsistent,New,New,Master's,Frequent,Low,Full-Time
+167370,41,Student,20,20,New,New,Consistent,Bachelor's,Occasional,Low,Full-Time
+642288,64,Self-employed,14,26,Inconsistent,Consistent,New,PhD,Frequent,Low,None
+749367,41,Unemployed,13,17,Consistent,Inconsistent,Consistent,Master's,None,Medium,Part-Time
+101446,43,Student,25,21,Consistent,Inconsistent,Inconsistent,PhD,Occasional,High,Full-Time
+589101,52,Self-employed,16,15,Inconsistent,Consistent,New,Master's,None,High,None
+181893,43,Unemployed,22,14,Consistent,Consistent,Consistent,Master's,None,Medium,Part-Time
+751606,55,Self-employed,13,3,Inconsistent,New,Consistent,Master's,None,Medium,None
+768900,28,Student,7,4,Consistent,Inconsistent,New,High School,None,High,None
+2017,56,Self-employed,4,28,Consistent,Inconsistent,Consistent,PhD,Occasional,Low,Part-Time
+248486,35,Employed,28,9,Consistent,New,Consistent,Master's,Frequent,High,Part-Time
+295321,43,Unemployed,18,25,New,Consistent,New,PhD,Frequent,High,Part-Time
+809675,54,Unemployed,0,23,Inconsistent,Consistent,New,PhD,Frequent,High,Full-Time
+22902,31,Employed,22,12,Consistent,New,Inconsistent,Master's,None,Low,Part-Time
+517287,44,Employed,12,12,Consistent,Inconsistent,Inconsistent,Master's,Occasional,Medium,Part-Time
+656930,23,Student,11,6,Inconsistent,Inconsistent,Consistent,High School,Frequent,High,None
+68144,33,Unemployed,2,26,New,Consistent,Inconsistent,High School,Frequent,Medium,None
+437091,46,Unemployed,7,2,Consistent,New,Consistent,Bachelor's,Frequent,Low,None
+953536,23,Unemployed,26,29,New,New,Consistent,Master's,None,High,None
+463455,30,Unemployed,18,28,New,Inconsistent,New,Bachelor's,Occasional,Low,Full-Time
+505645,62,Student,13,2,Inconsistent,Inconsistent,New,Master's,Occasional,Low,None
+319988,30,Self-employed,16,14,Inconsistent,Inconsistent,Consistent,High School,Frequent,Medium,None
+302246,22,Self-employed,3,24,New,New,Inconsistent,Master's,Frequent,Low,None
+802959,48,Employed,8,26,Inconsistent,Consistent,New,High School,Frequent,Low,Full-Time
+450353,58,Self-employed,7,25,Inconsistent,Consistent,New,Bachelor's,Frequent,High,Full-Time
+600670,64,Student,27,20,Consistent,New,New,PhD,None,Medium,None
+895355,38,Self-employed,13,16,New,Inconsistent,Consistent,High School,None,Low,None
+896800,29,Unemployed,14,29,Consistent,New,Consistent,High School,Occasional,Medium,None
+654461,53,Employed,9,26,Inconsistent,New,Consistent,High School,Frequent,Medium,Full-Time
+395231,44,Employed,28,20,Inconsistent,Consistent,New,High School,Occasional,Medium,Part-Time
+425355,24,Employed,15,2,New,Consistent,Inconsistent,PhD,Occasional,Medium,Part-Time
+218558,34,Unemployed,25,18,Consistent,Inconsistent,Consistent,Master's,Frequent,Low,None
+53931,58,Student,22,7,Consistent,Inconsistent,Consistent,PhD,Frequent,Medium,Part-Time
+310748,31,Self-employed,9,17,New,New,Consistent,High School,None,High,None
+756980,36,Self-employed,14,21,New,New,Inconsistent,Master's,Occasional,Medium,Full-Time
+758694,59,Student,17,8,Inconsistent,Consistent,New,High School,Occasional,High,Part-Time
+86038,47,Student,25,15,Consistent,New,Inconsistent,High School,Occasional,Medium,None
+655731,48,Student,4,20,Inconsistent,New,Consistent,High School,None,Low,Part-Time
+748139,26,Unemployed,22,12,Consistent,Inconsistent,Inconsistent,High School,Occasional,High,None
+607197,22,Student,0,4,Inconsistent,Inconsistent,Consistent,Bachelor's,None,Low,Part-Time
+20071,38,Student,5,4,Consistent,New,New,Bachelor's,Occasional,High,Part-Time
+860760,29,Self-employed,29,28,Inconsistent,New,Inconsistent,High School,None,Low,Full-Time
+559257,46,Unemployed,18,8,Inconsistent,New,Consistent,High School,Occasional,Low,Part-Time
+27377,19,Employed,19,12,Consistent,New,New,Bachelor's,None,Medium,Full-Time
+288297,29,Student,26,10,Inconsistent,Inconsistent,Inconsistent,PhD,Frequent,High,None
+9998,36,Student,13,20,Inconsistent,Inconsistent,Consistent,Bachelor's,Occasional,High,Part-Time
+315967,47,Unemployed,26,11,Inconsistent,New,Consistent,PhD,Frequent,High,Full-Time
+708689,18,Self-employed,7,28,Inconsistent,Inconsistent,Inconsistent,High School,Frequent,Medium,None
+362623,50,Unemployed,12,26,Inconsistent,Consistent,Consistent,Bachelor's,None,Medium,None
+754876,58,Employed,19,4,Inconsistent,Consistent,New,High School,None,High,Part-Time
+786196,50,Self-employed,4,21,Consistent,Inconsistent,Consistent,Bachelor's,Frequent,Low,Part-Time
+191869,44,Unemployed,23,11,Consistent,Inconsistent,New,Master's,Frequent,High,None
+814482,38,Student,8,25,Inconsistent,Inconsistent,Consistent,Bachelor's,None,Low,None
+579897,50,Unemployed,20,8,Consistent,New,New,PhD,None,Medium,None
+293492,46,Employed,6,8,Consistent,Inconsistent,Inconsistent,Master's,None,High,Full-Time
+805522,55,Self-employed,9,24,Consistent,Inconsistent,Inconsistent,Bachelor's,Frequent,Low,None
+482098,40,Student,3,12,Consistent,Inconsistent,Consistent,Master's,Occasional,Low,None
+342843,59,Student,3,0,New,Inconsistent,Inconsistent,Master's,Frequent,Low,Part-Time
+14677,48,Employed,24,13,Inconsistent,New,Consistent,High School,None,High,Part-Time
+953969,42,Student,19,6,Inconsistent,Inconsistent,Inconsistent,PhD,Occasional,High,None
+857240,26,Self-employed,7,12,New,Consistent,Inconsistent,Master's,Frequent,Low,None
+424651,45,Unemployed,16,10,Consistent,Consistent,Consistent,PhD,Occasional,Medium,Full-Time
+811797,35,Self-employed,19,29,Inconsistent,Inconsistent,Inconsistent,Bachelor's,Occasional,High,Full-Time
+67485,59,Employed,14,27,Inconsistent,Consistent,New,Bachelor's,Occasional,Medium,Part-Time
+368040,30,Employed,10,29,Inconsistent,New,New,Bachelor's,Occasional,High,Part-Time
+145919,36,Student,26,10,Consistent,Inconsistent,Inconsistent,Bachelor's,None,Medium,Full-Time
+860732,59,Self-employed,25,17,Inconsistent,New,Consistent,Bachelor's,Frequent,Low,Part-Time
+533870,50,Unemployed,11,13,Inconsistent,Inconsistent,Consistent,Bachelor's,Frequent,Medium,None
+471293,49,Unemployed,20,12,Consistent,New,Inconsistent,High School,None,Low,Part-Time
+96404,44,Student,29,24,Consistent,New,New,PhD,Frequent,High,Full-Time
+299159,37,Unemployed,16,14,New,Inconsistent,New,Bachelor's,None,Low,Part-Time
+332039,46,Unemployed,3,15,Consistent,Consistent,New,PhD,Frequent,Medium,Part-Time
+952182,64,Student,27,9,Inconsistent,New,Inconsistent,Bachelor's,Occasional,Medium,Full-Time
+139644,23,Employed,6,19,Consistent,Consistent,Consistent,High School,None,Low,Full-Time
+700967,28,Self-employed,29,0,Consistent,Inconsistent,Inconsistent,Bachelor's,None,High,Full-Time
+948314,60,Employed,19,18,Consistent,Inconsistent,Consistent,Master's,Frequent,Low,Full-Time
+372715,28,Unemployed,7,6,Inconsistent,Inconsistent,Inconsistent,PhD,None,Medium,Full-Time
+917632,47,Employed,5,0,New,New,Inconsistent,Bachelor's,None,High,Full-Time
+567628,37,Employed,19,11,New,New,Consistent,Master's,Frequent,High,Full-Time
+868823,52,Self-employed,2,7,Consistent,Inconsistent,New,High School,Frequent,High,None
+495794,47,Student,22,12,Inconsistent,New,Consistent,PhD,Frequent,Low,Full-Time
+428244,18,Unemployed,9,25,Inconsistent,New,Inconsistent,PhD,Frequent,High,Full-Time
+699325,39,Employed,22,11,New,Consistent,New,Master's,Occasional,Low,Part-Time
+974692,46,Self-employed,20,23,Consistent,Inconsistent,Inconsistent,Master's,None,Low,None
+333016,26,Student,11,5,New,Consistent,New,High School,Frequent,Medium,None
+334767,61,Unemployed,5,19,Consistent,Consistent,New,Master's,None,High,Full-Time
+903460,42,Unemployed,16,15,Consistent,Consistent,Inconsistent,Master's,Occasional,High,Part-Time
+556260,37,Employed,21,8,Consistent,New,New,High School,Occasional,Medium,Part-Time
+945870,41,Unemployed,29,9,Inconsistent,Inconsistent,New,Bachelor's,Frequent,Medium,None
+572374,50,Self-employed,20,24,Consistent,Consistent,New,High School,None,Medium,Part-Time
+722377,19,Employed,7,15,Inconsistent,Consistent,Inconsistent,Master's,Occasional,Medium,Full-Time
+382212,37,Employed,10,17,New,Inconsistent,New,Master's,None,Low,None
+317922,19,Self-employed,14,9,Consistent,New,New,PhD,Occasional,Medium,None
+483662,19,Student,11,6,Consistent,Inconsistent,New,PhD,Frequent,Medium,None
+639991,64,Unemployed,18,0,Inconsistent,Inconsistent,New,PhD,Occasional,High,Part-Time
+331431,58,Unemployed,4,29,New,Consistent,Consistent,PhD,Frequent,Low,Full-Time
+139699,34,Employed,10,6,Inconsistent,New,New,Master's,Occasional,Low,None
+332523,49,Student,8,7,Inconsistent,Inconsistent,Consistent,Bachelor's,None,Low,Part-Time
+246806,38,Student,1,15,New,New,Inconsistent,High School,None,Low,None
+917336,59,Employed,12,27,Inconsistent,New,Consistent,Master's,Occasional,High,Part-Time
+262947,63,Unemployed,8,13,Inconsistent,Inconsistent,Inconsistent,PhD,Frequent,Low,Full-Time
+290175,52,Student,3,23,New,Consistent,Consistent,PhD,Occasional,Medium,Part-Time
+822130,50,Self-employed,17,15,New,Consistent,Inconsistent,PhD,Frequent,Low,None
+141947,21,Self-employed,14,15,Consistent,Consistent,Inconsistent,Master's,Occasional,High,Part-Time
+743168,23,Unemployed,26,26,New,Consistent,Consistent,Bachelor's,Frequent,High,None
+24450,63,Student,1,15,Consistent,New,New,Master's,None,Medium,Full-Time
+433474,63,Student,5,18,Consistent,New,Consistent,High School,Frequent,High,Part-Time
+786285,54,Unemployed,12,7,Consistent,New,Consistent,High School,Occasional,Medium,Full-Time
+418272,51,Student,18,25,New,Inconsistent,Inconsistent,PhD,Occasional,Medium,Full-Time
+473033,36,Employed,6,16,Inconsistent,Inconsistent,Consistent,High School,Frequent,High,None
+508910,52,Unemployed,9,4,New,Inconsistent,Inconsistent,PhD,None,Medium,Part-Time
+821092,60,Student,7,3,New,New,New,Master's,None,High,Part-Time
+973615,32,Student,27,23,New,Consistent,Consistent,Bachelor's,Frequent,Low,None
+550423,57,Unemployed,26,22,Inconsistent,Consistent,New,Bachelor's,Frequent,High,Full-Time
+310272,60,Self-employed,8,10,Inconsistent,Consistent,New,High School,Occasional,Medium,Full-Time
+443529,41,Unemployed,5,29,Consistent,Consistent,Inconsistent,Bachelor's,Occasional,Medium,None
+36925,39,Student,18,2,New,New,Consistent,PhD,None,Low,Part-Time
+920619,58,Self-employed,15,13,Consistent,New,Inconsistent,High School,None,High,Part-Time
+696088,39,Student,22,16,Inconsistent,Consistent,New,Bachelor's,Frequent,Medium,Part-Time
+84402,20,Employed,27,27,New,Inconsistent,Consistent,PhD,Frequent,Medium,Full-Time
+375092,30,Employed,23,5,New,New,Consistent,High School,Frequent,Low,Full-Time
+745141,59,Student,4,6,Consistent,Inconsistent,Consistent,Bachelor's,None,Low,Full-Time
+139093,36,Unemployed,11,27,New,Inconsistent,Consistent,PhD,Frequent,High,Full-Time
+863145,57,Unemployed,16,12,Inconsistent,New,Consistent,Bachelor's,Frequent,Medium,Full-Time
+186180,39,Employed,16,24,New,Consistent,Inconsistent,High School,None,High,Full-Time
+573285,55,Unemployed,0,10,Inconsistent,Consistent,New,PhD,Frequent,High,None
+919083,36,Student,7,13,New,Consistent,Inconsistent,PhD,Frequent,Low,Part-Time
+811433,34,Student,13,7,Inconsistent,Consistent,New,PhD,Occasional,High,Full-Time
+751408,22,Self-employed,11,9,Inconsistent,Inconsistent,Inconsistent,PhD,Occasional,Low,None
+166860,58,Self-employed,7,6,Inconsistent,Consistent,New,Master's,None,Medium,Full-Time
+234943,57,Student,1,29,Consistent,New,Inconsistent,Bachelor's,Occasional,High,None
+157439,55,Unemployed,1,4,New,Inconsistent,Inconsistent,Bachelor's,Frequent,Medium,Part-Time
+386622,34,Unemployed,19,26,Consistent,New,Inconsistent,Bachelor's,Occasional,Low,Full-Time
+444376,62,Self-employed,29,11,New,Consistent,Inconsistent,High School,Frequent,Low,Part-Time
+151348,44,Self-employed,0,29,New,New,Consistent,Bachelor's,None,High,Part-Time
+511226,42,Unemployed,9,6,Consistent,New,New,Master's,Occasional,Medium,None
+104206,58,Unemployed,29,11,Consistent,New,Consistent,Bachelor's,Frequent,High,None
+372820,27,Employed,28,7,Consistent,Consistent,New,Bachelor's,None,High,None
+238567,19,Student,18,25,Consistent,Consistent,Inconsistent,PhD,Frequent,Medium,None
+220985,43,Employed,28,22,New,New,Inconsistent,Bachelor's,Occasional,Low,None
+551202,38,Self-employed,28,7,Consistent,New,Inconsistent,High School,Occasional,High,Part-Time
+428016,45,Employed,11,21,New,New,New,High School,None,Low,Part-Time
+733516,45,Self-employed,8,22,Inconsistent,Inconsistent,Consistent,Bachelor's,Frequent,High,Part-Time
+294468,24,Employed,13,4,Inconsistent,Inconsistent,Consistent,High School,None,Low,Full-Time
+268903,46,Student,2,10,Inconsistent,Inconsistent,Consistent,PhD,None,High,None
+232576,19,Student,2,6,Consistent,New,New,PhD,Frequent,Medium,Part-Time
+161410,62,Employed,19,13,Consistent,Consistent,Consistent,Master's,Frequent,Low,Part-Time
+928417,55,Student,18,20,New,Consistent,Consistent,Master's,None,Low,None
+324055,19,Unemployed,23,1,Inconsistent,Inconsistent,Consistent,Bachelor's,Frequent,Low,Part-Time
+745879,39,Employed,11,21,New,New,Consistent,Bachelor's,Frequent,High,None
+560938,58,Unemployed,29,5,Inconsistent,Consistent,New,PhD,None,Medium,Full-Time
+6967,34,Student,5,8,Inconsistent,New,Consistent,Bachelor's,None,Medium,Full-Time
+663225,30,Unemployed,10,29,New,Inconsistent,Consistent,PhD,Occasional,Low,None
+269925,49,Employed,1,1,New,Consistent,Inconsistent,Master's,Occasional,High,Part-Time
+683798,33,Unemployed,19,2,Inconsistent,Inconsistent,Consistent,Master's,Frequent,High,None
+472845,24,Student,28,25,Consistent,Inconsistent,New,Master's,Occasional,Low,None
+256866,18,Employed,4,19,Consistent,Consistent,New,Master's,None,Medium,None
+572356,61,Unemployed,6,13,Inconsistent,New,New,PhD,Frequent,Low,Full-Time
+237252,46,Employed,19,27,Consistent,Inconsistent,New,Master's,Frequent,Low,Full-Time
+952144,36,Employed,23,18,Inconsistent,New,Consistent,PhD,None,Medium,Full-Time
+748743,50,Self-employed,1,4,New,Inconsistent,New,Bachelor's,Occasional,Low,Part-Time
+950361,58,Self-employed,5,19,New,Inconsistent,Consistent,Bachelor's,Frequent,Medium,Full-Time
+789286,41,Student,17,4,Inconsistent,Consistent,New,Bachelor's,None,Low,None
+409746,47,Student,1,4,Inconsistent,New,Consistent,Bachelor's,None,Low,None
+339518,18,Unemployed,8,0,New,New,Consistent,Bachelor's,None,High,Full-Time
+725291,62,Self-employed,11,19,Consistent,New,Consistent,Bachelor's,Occasional,Medium,Full-Time
+309475,21,Employed,15,18,Consistent,Consistent,New,High School,Frequent,Low,Part-Time
+65165,20,Self-employed,14,9,Inconsistent,Inconsistent,New,PhD,None,Medium,None
+172233,53,Employed,13,0,New,Inconsistent,New,Bachelor's,Frequent,Medium,None
+490580,48,Student,27,21,Inconsistent,Consistent,New,Bachelor's,None,Low,Part-Time
+926564,25,Unemployed,28,12,Consistent,Inconsistent,New,Bachelor's,Occasional,Medium,None
+894439,18,Student,0,1,Consistent,New,Consistent,Master's,None,Low,Part-Time
+486983,23,Self-employed,6,22,Inconsistent,Inconsistent,Inconsistent,PhD,Occasional,Medium,Full-Time
+720656,21,Self-employed,25,16,Consistent,Inconsistent,Consistent,PhD,None,Medium,Part-Time
+509782,20,Self-employed,23,1,Consistent,Inconsistent,Consistent,PhD,Occasional,Low,Full-Time
+976342,36,Self-employed,4,14,New,Consistent,Inconsistent,PhD,Occasional,Low,Part-Time
+624821,26,Self-employed,12,27,Inconsistent,New,Inconsistent,Bachelor's,Occasional,Low,Part-Time
+140714,57,Self-employed,28,19,New,Consistent,New,Bachelor's,None,Medium,None
+729546,32,Self-employed,1,5,Consistent,New,New,High School,Frequent,Medium,Full-Time
+50394,22,Student,26,16,Inconsistent,Inconsistent,Consistent,Bachelor's,None,High,None
+335153,41,Student,21,6,Inconsistent,Consistent,New,Master's,None,High,Full-Time
+703394,62,Unemployed,26,7,Consistent,New,New,Bachelor's,None,High,Part-Time
+744711,36,Student,20,17,Consistent,New,Consistent,Bachelor's,Frequent,Low,Part-Time
+623332,61,Unemployed,21,24,New,Consistent,Inconsistent,Master's,Occasional,High,Part-Time
+804851,55,Unemployed,27,24,New,Inconsistent,Consistent,High School,Occasional,High,Part-Time
+779939,23,Employed,15,29,Inconsistent,Inconsistent,Consistent,PhD,Occasional,Low,Part-Time
+264808,45,Self-employed,19,18,New,Inconsistent,New,PhD,Frequent,High,Part-Time
+241262,25,Unemployed,13,19,New,Inconsistent,New,Bachelor's,None,Medium,Full-Time
+796493,51,Unemployed,28,15,Inconsistent,New,Inconsistent,PhD,Occasional,Medium,Full-Time
+499501,46,Student,4,22,Inconsistent,Consistent,Consistent,High School,Occasional,Medium,Full-Time
+110272,33,Unemployed,23,20,New,Inconsistent,New,Master's,Frequent,Low,None
+134922,33,Employed,8,15,Inconsistent,Inconsistent,New,High School,Frequent,Low,None
+181981,39,Self-employed,21,28,Consistent,New,Inconsistent,Bachelor's,Occasional,Low,Full-Time
+345219,48,Employed,23,19,Inconsistent,New,New,Bachelor's,Frequent,High,Full-Time
+667117,40,Unemployed,29,3,Inconsistent,Inconsistent,New,PhD,Occasional,Medium,Part-Time
+20229,43,Student,1,12,Inconsistent,Inconsistent,Inconsistent,Bachelor's,Frequent,Medium,Part-Time
+240586,41,Unemployed,27,22,Consistent,New,Inconsistent,Bachelor's,Occasional,Medium,Full-Time
+781926,43,Employed,25,12,New,Consistent,New,Master's,Frequent,Low,Part-Time
+548878,59,Unemployed,21,20,Inconsistent,Consistent,Consistent,Bachelor's,Occasional,Medium,None
+32510,35,Unemployed,16,23,Inconsistent,Consistent,Consistent,PhD,Frequent,Medium,Full-Time
+411376,27,Student,28,16,Inconsistent,Consistent,New,High School,Occasional,High,None
+672595,58,Employed,27,13,Inconsistent,New,Inconsistent,High School,Frequent,Medium,None
+636181,40,Unemployed,22,9,New,Inconsistent,Inconsistent,High School,Occasional,Medium,None
+33494,50,Student,6,5,Inconsistent,Inconsistent,Consistent,Master's,None,Medium,Full-Time
+425313,61,Unemployed,3,15,Inconsistent,New,Consistent,Master's,None,Medium,Part-Time
+295707,24,Employed,24,18,Inconsistent,Consistent,Inconsistent,Bachelor's,Occasional,High,Part-Time
+599287,55,Self-employed,16,29,Consistent,Inconsistent,Inconsistent,Bachelor's,Frequent,Low,Part-Time
+206398,48,Self-employed,15,23,Consistent,Consistent,Consistent,Bachelor's,Occasional,Medium,Part-Time
+3538,20,Unemployed,7,18,Inconsistent,Inconsistent,Consistent,Bachelor's,Occasional,Low,Full-Time
+863086,58,Employed,21,26,Inconsistent,Inconsistent,Consistent,Bachelor's,None,Medium,None
+334475,24,Student,3,20,New,Consistent,New,Bachelor's,Occasional,Low,Full-Time
+743602,46,Student,4,6,Consistent,New,New,Bachelor's,Occasional,Low,Part-Time
+538122,36,Employed,2,23,Inconsistent,Inconsistent,Inconsistent,Master's,Frequent,Low,Full-Time
+871863,41,Employed,0,2,Inconsistent,Inconsistent,New,High School,None,Medium,Part-Time
+503990,45,Self-employed,26,8,New,Consistent,Consistent,Bachelor's,Frequent,Medium,None
+347000,24,Student,15,1,Consistent,Consistent,Inconsistent,PhD,Occasional,Medium,Full-Time
+748985,53,Student,15,12,New,Inconsistent,New,High School,None,Low,None
+690726,42,Student,6,13,Consistent,New,Consistent,Bachelor's,Occasional,Medium,None
+644939,45,Self-employed,17,14,Inconsistent,Inconsistent,New,Master's,None,Medium,None
+453981,19,Employed,29,19,Inconsistent,Inconsistent,Consistent,High School,Frequent,Medium,Full-Time
+568845,48,Student,25,10,Inconsistent,New,New,High School,Frequent,Low,Part-Time
+7519,33,Employed,22,13,Inconsistent,Consistent,Consistent,Master's,Occasional,Low,Full-Time
+340643,23,Employed,0,5,Consistent,Inconsistent,New,Master's,None,Low,None
+948332,54,Student,3,8,Inconsistent,Inconsistent,Consistent,Bachelor's,Frequent,Medium,None
+946343,41,Self-employed,29,13,New,New,Consistent,Master's,Occasional,Low,None
+148294,53,Student,11,25,Consistent,Inconsistent,New,PhD,None,High,Full-Time
+368715,64,Self-employed,3,29,Consistent,Inconsistent,Consistent,Bachelor's,Occasional,High,Part-Time
+169051,29,Unemployed,27,19,Inconsistent,Inconsistent,Consistent,Master's,None,Medium,None
+887054,47,Self-employed,18,26,Inconsistent,New,Inconsistent,Master's,None,Low,Full-Time
+632381,32,Unemployed,23,5,Inconsistent,Consistent,Consistent,PhD,Frequent,High,None
+997174,49,Employed,11,22,New,Inconsistent,New,Master's,None,Medium,Full-Time
+351986,41,Self-employed,28,11,Inconsistent,Consistent,New,Bachelor's,None,High,Part-Time
+470902,45,Unemployed,21,19,Inconsistent,New,Inconsistent,High School,None,High,None
+444535,20,Unemployed,28,20,Inconsistent,Consistent,Inconsistent,PhD,Frequent,Medium,Full-Time
+829792,35,Unemployed,13,19,Inconsistent,Inconsistent,Inconsistent,Bachelor's,None,Low,None
+119248,58,Student,13,4,New,Consistent,New,High School,Occasional,Medium,None
+793329,49,Self-employed,14,4,New,Consistent,Inconsistent,High School,None,High,None
+39216,40,Student,17,1,Inconsistent,Inconsistent,New,Master's,Frequent,Medium,Part-Time
+619337,59,Employed,29,8,Consistent,Consistent,New,Bachelor's,Occasional,Low,Part-Time
+185876,44,Self-employed,13,25,New,Inconsistent,New,Master's,Occasional,High,Full-Time
+677313,33,Employed,29,12,Consistent,New,Inconsistent,Master's,None,Low,Part-Time
+407049,30,Self-employed,26,2,Inconsistent,Consistent,Inconsistent,High School,Frequent,Low,None
+701366,31,Student,2,23,New,New,Inconsistent,Master's,None,Low,None
+987708,50,Employed,1,23,Inconsistent,New,New,High School,None,Medium,None
+328653,61,Unemployed,14,3,Consistent,Consistent,Inconsistent,PhD,None,Medium,None
+80116,45,Employed,17,15,Consistent,New,Consistent,High School,None,Medium,None
+579848,32,Employed,4,22,New,New,Inconsistent,High School,Occasional,Low,Full-Time
+733050,36,Student,10,25,New,Inconsistent,Inconsistent,Bachelor's,None,Low,None
+175296,31,Unemployed,15,3,Consistent,New,New,High School,Frequent,Low,None
+363596,46,Unemployed,3,18,Consistent,New,Consistent,PhD,Occasional,Medium,Full-Time
+246932,32,Unemployed,12,24,New,Consistent,New,High School,None,Low,Part-Time
+546754,44,Self-employed,7,28,New,Consistent,Inconsistent,Bachelor's,Occasional,Medium,Part-Time
+36176,36,Unemployed,24,2,New,Consistent,Inconsistent,PhD,Frequent,Medium,None
+552806,44,Employed,9,8,New,New,New,Bachelor's,Frequent,High,None
+333875,42,Unemployed,15,0,Consistent,Consistent,Consistent,Bachelor's,None,Medium,Part-Time
+652076,50,Employed,8,10,Inconsistent,New,New,Bachelor's,None,Low,None
+485398,47,Employed,26,9,Consistent,New,Inconsistent,Bachelor's,Occasional,Low,None
+893862,58,Student,19,20,Consistent,New,Inconsistent,High School,Frequent,Low,Part-Time
+127030,56,Self-employed,4,6,Consistent,Consistent,Consistent,PhD,None,Medium,Full-Time
+911043,56,Self-employed,28,29,Inconsistent,New,New,PhD,Occasional,High,None
+34234,47,Unemployed,15,0,New,New,Inconsistent,High School,Frequent,Medium,None
+425628,21,Employed,15,4,Consistent,Inconsistent,Inconsistent,PhD,None,High,Part-Time
+272992,38,Unemployed,9,28,Inconsistent,Consistent,New,PhD,None,Low,Part-Time
+330292,41,Student,5,12,Consistent,New,Inconsistent,Master's,Occasional,High,None
+6587,40,Student,24,14,Consistent,Inconsistent,Inconsistent,PhD,Frequent,Medium,None
+610860,28,Unemployed,14,25,Inconsistent,Consistent,Consistent,PhD,Frequent,Medium,Part-Time
+978800,25,Self-employed,25,16,Consistent,Consistent,Inconsistent,High School,Occasional,Medium,None
+867910,28,Employed,8,19,New,New,Inconsistent,High School,Frequent,High,None
+732275,36,Self-employed,5,14,Consistent,New,Consistent,PhD,None,Low,Part-Time
+852819,19,Unemployed,7,13,New,Inconsistent,Inconsistent,Master's,None,Medium,None
+420550,60,Employed,7,8,Consistent,New,New,Master's,None,Medium,Part-Time
+327796,34,Employed,5,15,New,Inconsistent,Consistent,High School,Occasional,Low,None
+368806,53,Unemployed,27,2,Consistent,Inconsistent,Inconsistent,High School,None,Low,None
+478501,28,Student,23,26,Inconsistent,Inconsistent,Inconsistent,PhD,None,High,Part-Time
+656874,53,Student,29,21,Inconsistent,New,New,PhD,Occasional,High,None
+280445,43,Self-employed,8,0,Consistent,Consistent,Inconsistent,PhD,Occasional,Low,None
+950520,31,Unemployed,0,3,Consistent,Consistent,Inconsistent,Master's,Frequent,High,Full-Time
+522508,38,Self-employed,17,29,New,New,New,PhD,Frequent,Medium,Full-Time
+545219,26,Employed,15,29,Inconsistent,Inconsistent,Consistent,Bachelor's,Occasional,Medium,Full-Time
+504023,39,Employed,27,27,Consistent,Inconsistent,Inconsistent,PhD,None,High,Full-Time
+754996,20,Student,24,19,Inconsistent,Consistent,Consistent,Bachelor's,Occasional,High,Full-Time
+834636,49,Student,20,1,Inconsistent,Consistent,New,PhD,Occasional,Medium,Part-Time
+161093,19,Unemployed,10,9,New,Consistent,New,Master's,Occasional,Medium,None
+346464,51,Student,3,29,New,Consistent,New,PhD,Frequent,High,Full-Time
+194581,29,Student,23,3,New,Inconsistent,New,PhD,Frequent,High,Part-Time
+747993,58,Self-employed,17,2,New,New,Consistent,Bachelor's,Occasional,Medium,Full-Time
+604017,44,Self-employed,1,14,Consistent,Consistent,Consistent,PhD,None,Low,Full-Time
+280014,47,Self-employed,19,4,Inconsistent,New,Consistent,PhD,Frequent,Low,Full-Time
+275115,61,Employed,16,4,New,Consistent,Inconsistent,Master's,Frequent,Low,Full-Time
+141439,19,Unemployed,9,12,Inconsistent,New,Inconsistent,Bachelor's,None,High,None
+92244,53,Self-employed,28,6,Consistent,Inconsistent,Consistent,Bachelor's,None,High,Full-Time
+851041,21,Student,9,20,Consistent,New,New,Bachelor's,None,High,Part-Time
+70102,61,Unemployed,14,0,Inconsistent,New,Consistent,High School,Occasional,Medium,None
+536431,47,Self-employed,24,6,Consistent,Inconsistent,Inconsistent,High School,None,Low,Part-Time
+560345,21,Unemployed,27,4,Consistent,New,Inconsistent,Bachelor's,None,High,None
+84600,27,Unemployed,11,17,New,New,Inconsistent,Bachelor's,None,Low,Full-Time
+625591,46,Unemployed,10,20,Inconsistent,Consistent,Consistent,Master's,Frequent,Low,Full-Time
+921042,55,Student,17,29,Inconsistent,New,New,Bachelor's,Frequent,Medium,Part-Time
+353031,27,Student,14,22,Consistent,Consistent,Inconsistent,High School,Occasional,High,Part-Time
+574691,50,Self-employed,16,8,Consistent,New,Consistent,High School,Frequent,Medium,None
+636676,57,Student,10,10,New,Inconsistent,Consistent,PhD,None,Medium,Part-Time
+380332,23,Self-employed,23,1,New,New,New,Master's,Occasional,High,Part-Time
+782832,22,Self-employed,22,8,Consistent,Consistent,Consistent,Bachelor's,None,High,Part-Time
+384422,64,Student,13,16,Inconsistent,Consistent,Inconsistent,Bachelor's,Occasional,High,Part-Time
+984298,19,Self-employed,4,14,Consistent,Inconsistent,Inconsistent,High School,Frequent,High,Part-Time
+245642,43,Employed,0,28,Consistent,Consistent,Consistent,PhD,Frequent,Medium,Full-Time
+52292,34,Unemployed,27,7,New,Consistent,Inconsistent,Master's,Occasional,High,Part-Time
+382616,45,Student,27,5,Consistent,Consistent,Inconsistent,Bachelor's,None,Medium,Part-Time
+614274,20,Unemployed,22,18,Inconsistent,New,Consistent,PhD,None,Medium,Full-Time
+748856,30,Self-employed,29,15,Consistent,Consistent,Inconsistent,High School,Occasional,High,Full-Time
+918891,19,Employed,28,0,New,New,New,Master's,Occasional,Medium,Part-Time
+881974,29,Employed,23,12,New,New,Consistent,Master's,Occasional,High,Full-Time
+354293,27,Self-employed,8,18,Inconsistent,Inconsistent,Consistent,Master's,Frequent,Low,Full-Time
+745908,58,Employed,4,14,Consistent,Inconsistent,Inconsistent,PhD,None,Medium,Part-Time
+722307,42,Unemployed,5,15,Inconsistent,New,New,PhD,Occasional,Medium,None
+55655,32,Student,20,29,New,Inconsistent,Consistent,High School,None,High,Full-Time
+900756,53,Employed,7,28,New,Consistent,Consistent,Master's,Frequent,Medium,Part-Time
+796607,23,Employed,17,15,New,New,Consistent,Master's,Frequent,High,None
+901629,35,Unemployed,25,23,New,Inconsistent,Consistent,PhD,Frequent,High,None
+116141,64,Unemployed,12,2,Consistent,Inconsistent,New,Bachelor's,None,Low,Full-Time
+963402,59,Employed,8,28,New,New,Inconsistent,High School,Occasional,High,Part-Time
+405988,19,Student,2,5,New,Inconsistent,Inconsistent,High School,Frequent,Low,Full-Time
+630021,21,Self-employed,9,23,Inconsistent,New,Inconsistent,PhD,None,Medium,None
+410803,20,Self-employed,3,13,Inconsistent,Inconsistent,Inconsistent,Master's,Occasional,Low,Part-Time
+342285,20,Self-employed,11,23,New,Consistent,New,Master's,Frequent,Low,None
+416507,56,Unemployed,1,0,Inconsistent,Inconsistent,Consistent,Master's,None,Medium,None
+950401,44,Employed,13,25,New,New,Consistent,Master's,Occasional,Low,Part-Time
+307744,46,Student,10,0,New,Inconsistent,Consistent,PhD,None,Low,Part-Time
+68382,33,Student,1,26,Inconsistent,Consistent,New,Master's,None,High,Part-Time
+39341,39,Unemployed,13,17,Inconsistent,New,Inconsistent,High School,Occasional,Medium,Full-Time
+63325,19,Employed,18,10,Consistent,Inconsistent,Inconsistent,PhD,Frequent,High,Full-Time
+830972,57,Self-employed,27,11,Consistent,New,Consistent,High School,Frequent,Medium,Full-Time
+155849,40,Student,17,9,Consistent,Consistent,Inconsistent,Bachelor's,Occasional,High,None
+925800,48,Unemployed,9,12,Consistent,New,Inconsistent,PhD,Frequent,Low,None
+893571,46,Employed,13,24,Consistent,Inconsistent,Inconsistent,Bachelor's,None,High,Full-Time
+673429,59,Employed,28,12,Consistent,Consistent,Inconsistent,High School,Occasional,High,None
+570451,55,Self-employed,25,27,Consistent,Inconsistent,New,Bachelor's,Occasional,Medium,Full-Time
+789225,23,Unemployed,20,18,New,New,Inconsistent,Master's,Frequent,High,Full-Time
+661044,49,Self-employed,14,27,Inconsistent,Consistent,Consistent,Bachelor's,None,Medium,None
+814019,18,Employed,15,14,Consistent,Inconsistent,New,PhD,None,Medium,Part-Time
+625814,59,Unemployed,18,18,Inconsistent,Consistent,Consistent,High School,Occasional,High,None
+24176,48,Employed,13,12,Consistent,New,New,PhD,None,High,Full-Time
+144201,53,Self-employed,20,14,New,Inconsistent,Inconsistent,Master's,Frequent,Low,Full-Time
+333322,40,Employed,17,11,Inconsistent,Inconsistent,New,PhD,None,High,None
+445760,19,Self-employed,16,11,Consistent,Consistent,Consistent,PhD,Occasional,Medium,None
+533572,63,Student,4,18,Inconsistent,Consistent,New,Bachelor's,Occasional,Low,Part-Time
+420594,19,Employed,25,9,Inconsistent,Consistent,Consistent,Bachelor's,None,High,Part-Time
+458734,61,Self-employed,21,4,New,Consistent,Consistent,Master's,Occasional,High,Full-Time
+18184,50,Unemployed,21,9,New,Inconsistent,New,Master's,Frequent,High,None
+99483,54,Employed,4,24,Inconsistent,New,Inconsistent,High School,None,Low,Full-Time
+143327,54,Self-employed,23,25,New,Inconsistent,Inconsistent,PhD,None,High,Part-Time
+487017,61,Unemployed,5,29,New,Consistent,Inconsistent,High School,Occasional,High,Full-Time
+595735,25,Employed,17,1,New,Inconsistent,New,PhD,Frequent,High,None
+948576,49,Employed,2,26,New,Consistent,New,PhD,Frequent,Low,Full-Time
+530291,33,Unemployed,17,10,Inconsistent,Consistent,New,Bachelor's,None,Low,Full-Time
+899399,59,Self-employed,29,9,Consistent,Inconsistent,Inconsistent,PhD,Occasional,High,Part-Time
+78146,45,Self-employed,7,2,Consistent,New,New,PhD,Occasional,Medium,Full-Time
+170710,37,Employed,13,4,Consistent,Consistent,Consistent,Master's,None,Medium,Part-Time
+405383,24,Unemployed,23,24,Inconsistent,Consistent,Inconsistent,Bachelor's,Frequent,High,Full-Time
+604028,49,Unemployed,8,10,New,Inconsistent,Inconsistent,Master's,Frequent,Medium,Part-Time
+320528,35,Self-employed,14,29,Consistent,New,Consistent,Bachelor's,Occasional,High,Part-Time
+293675,18,Self-employed,27,9,New,Consistent,Inconsistent,Bachelor's,Occasional,Medium,Full-Time
+950881,18,Student,20,23,Consistent,Inconsistent,Inconsistent,High School,None,Low,Full-Time
+662242,53,Unemployed,10,20,New,New,New,PhD,None,High,Part-Time
+547329,20,Self-employed,0,14,New,Inconsistent,New,PhD,Occasional,Medium,Part-Time
+522456,53,Unemployed,18,27,Inconsistent,New,Consistent,High School,Occasional,Medium,None
+824503,38,Employed,29,10,Inconsistent,Inconsistent,Inconsistent,Master's,None,High,None
+404323,28,Employed,27,8,Inconsistent,Consistent,New,PhD,Frequent,Medium,Part-Time
+762210,37,Student,20,15,Consistent,New,Inconsistent,Master's,None,High,Part-Time
+289262,58,Employed,18,28,New,Inconsistent,Consistent,Master's,Occasional,High,Full-Time
+899348,29,Self-employed,26,14,Consistent,New,New,High School,Frequent,High,Part-Time
+653092,53,Self-employed,1,1,Inconsistent,Consistent,New,High School,Occasional,Low,None
+62451,40,Self-employed,20,28,Inconsistent,Inconsistent,New,Master's,Occasional,Medium,Full-Time
+982668,20,Employed,3,0,Consistent,Consistent,Inconsistent,Bachelor's,None,Medium,Part-Time
+391807,49,Unemployed,8,13,Inconsistent,Consistent,Inconsistent,PhD,Occasional,Medium,Part-Time
+168579,27,Student,4,4,Consistent,Consistent,Consistent,Master's,Frequent,Low,Part-Time
+1790,50,Employed,16,7,Consistent,New,Consistent,Bachelor's,None,High,Full-Time
+682479,52,Employed,12,23,New,Consistent,Consistent,High School,Occasional,Low,Part-Time
+856527,27,Student,26,12,New,Consistent,Consistent,Master's,None,Low,Part-Time
+996724,44,Self-employed,24,8,Inconsistent,New,Consistent,PhD,Frequent,Low,Part-Time
+876205,34,Self-employed,2,6,Inconsistent,Consistent,New,PhD,Occasional,Medium,Part-Time
+613655,64,Employed,27,13,New,Consistent,Consistent,PhD,Frequent,Medium,Full-Time
+92253,47,Self-employed,3,7,New,Consistent,New,Master's,Occasional,Low,Full-Time
+903414,60,Unemployed,20,4,Inconsistent,New,Consistent,High School,Frequent,Medium,Part-Time
+986075,63,Self-employed,9,12,New,Inconsistent,Consistent,High School,None,Low,None
+848488,44,Student,27,8,Inconsistent,Consistent,New,High School,Frequent,Medium,Part-Time
+591995,39,Self-employed,27,26,New,New,New,Master's,None,Low,Full-Time
+506051,53,Employed,15,1,Consistent,New,Consistent,PhD,Frequent,Medium,Full-Time
+975772,50,Self-employed,3,21,New,Consistent,New,PhD,None,Low,Part-Time
+184340,42,Employed,17,12,Inconsistent,Consistent,Consistent,Bachelor's,None,Medium,None
+85,45,Self-employed,23,5,Consistent,New,New,Bachelor's,None,Low,Full-Time
+612558,20,Student,2,10,Inconsistent,Inconsistent,Consistent,PhD,None,Medium,Full-Time
+784916,49,Student,12,1,Inconsistent,New,New,Bachelor's,Occasional,High,None
+929521,61,Self-employed,15,19,Consistent,Consistent,Consistent,Bachelor's,None,High,Full-Time
+510564,32,Self-employed,29,15,New,Inconsistent,New,High School,None,Low,Part-Time
+860311,39,Unemployed,18,23,Inconsistent,New,Consistent,Master's,Occasional,Medium,Part-Time
+849477,36,Unemployed,29,20,Consistent,Inconsistent,Inconsistent,High School,None,High,None
+910349,61,Unemployed,2,15,New,New,Consistent,High School,Frequent,High,Part-Time
+230435,42,Student,16,6,Inconsistent,Consistent,New,Master's,Frequent,Low,Part-Time
+29229,56,Employed,10,13,New,Consistent,New,Master's,Occasional,Medium,Full-Time
+681623,49,Student,13,6,Consistent,New,New,Bachelor's,Occasional,Low,None
+321986,42,Student,23,29,Consistent,Inconsistent,Inconsistent,PhD,None,High,Full-Time
+175766,19,Unemployed,16,7,Consistent,New,Inconsistent,High School,Frequent,Low,None
+736750,59,Self-employed,25,21,Consistent,Inconsistent,New,Bachelor's,None,Low,None
+88313,51,Unemployed,20,0,Inconsistent,Inconsistent,New,Bachelor's,None,Low,Part-Time
+630998,53,Unemployed,16,21,Inconsistent,Inconsistent,Consistent,Master's,Frequent,Low,None
+805746,56,Student,22,14,New,New,Inconsistent,Master's,Occasional,High,Part-Time
+253415,24,Employed,15,15,New,Consistent,Inconsistent,High School,None,High,None
+358631,28,Self-employed,27,17,New,Inconsistent,New,Master's,Frequent,High,Part-Time
+557865,40,Employed,6,23,Inconsistent,New,Inconsistent,High School,Frequent,Medium,Part-Time
+108993,49,Employed,20,17,Consistent,Consistent,Inconsistent,PhD,Occasional,Low,None
+604395,47,Unemployed,15,29,Consistent,Inconsistent,New,Bachelor's,Occasional,High,Full-Time
+852237,40,Employed,22,4,Consistent,Consistent,Inconsistent,High School,None,Medium,None
+936458,31,Unemployed,21,15,Consistent,Inconsistent,Consistent,PhD,Occasional,High,None
